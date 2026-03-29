@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# Manim output (VERY important)
+media/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Build / packaging
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Misc
+*.log
